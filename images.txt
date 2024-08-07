@@ -1,1 +1,1 @@
-tomcat
+postgres:15.3
